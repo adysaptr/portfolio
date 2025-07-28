@@ -20,6 +20,11 @@ AI is used to help compile documentation content and improve efficiency in front
 
 ## Documentation
 - Dekstop view
-
+  
+![Dekstop_view1](dist/img/DEKSTOPDARK.png)
+![Dekstop_view2](dist/img/DEKSTOPLIGHT.png)
   
 - Mobile view
+
+![Mobile_view1](dist/img/HPDARK.png)
+![Mobile_view2](dist/img/HPLIGHT.png)
