@@ -7,7 +7,7 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Features](#-features)
 - [AI Support Explanation](#-ai-support-explanation)
 - [Documentation](#-documentation)
@@ -40,3 +40,8 @@ AI is used to help compile documentation content and improve efficiency in front
 
 ![Mobile_view1](dist/img/HPDARK.png)
 ![Mobile_view2](dist/img/HPLIGHT.png)
+
+## 🙏 Thank You
+Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
+
+Created with 💻 by [Ady Saputra](https://github.com/adysaptr
