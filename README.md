@@ -5,7 +5,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-Framework-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-
+## Table of Contents
+- [Description](#description)
+- [Technologies Used](#-technologies-used)
+- [Features](#-features)
+- [AI Support Explanation](#-ai-support-explanation)
+- [Documentation](#-documentation)
 
 ## Description
 A personal portfolio website designed to showcase personal information, experience, projects, and contact details, featuring a modern, responsive, and easy-to-navigate design.
